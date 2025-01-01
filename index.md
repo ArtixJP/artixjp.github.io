@@ -1,5 +1,2 @@
----
-title: Welcome to Artix's blog
----
-
-Find my last articles:
+title: Artix's blog
+description: Find all my blog posts here
